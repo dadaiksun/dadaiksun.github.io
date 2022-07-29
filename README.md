@@ -1,4 +1,49 @@
+# Home Page
+
+## Font
+
+[네이버 마루 부리](https://hangeul.naver.com/2021/fonts/nanum)
+
+```html
+<link href="https://hangeul.pstatic.net/hangeul_static/css/maru-buri.css" rel="stylesheet">
+```
+
+```css
+font-family: 'MaruBuriExtraLight';
+font-family: 'MaruBuriLight';
+font-family: 'MaruBuri';
+font-family: 'MaruBuriBold';
+font-family: 'MaruBuriSemiBold';
+```
+
+[나눔스퀘어](https://hangeul.naver.com/2021/fonts/nanum)
+
+```html
+<link href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square.css" rel="stylesheet">
+```
+
+```css
+font-family: 'NanumSquareLight';
+font-family: 'NanumSquare';
+font-family: 'NanumSquareBold';
+font-family: 'NanumSquareExtraBold';
+font-family: 'NanumSquareAcb';
+font-family: 'NanumSquareAceb';
+font-family: 'NanumSquareAcl';
+font-family: 'NanumSquareAcr';
+```
+
+REF
+* [웹에서 사용하기 좋은 국문 폰트](https://m.blog.naver.com/holicdesigns/221803545642)
+
+
+
+***
+
 # Forty - Jekyll Theme
+
+
+
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
@@ -64,3 +109,5 @@ Credits:
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+
+

@@ -63,6 +63,10 @@
 				top: 0;
 				width: 100%;
 				z-index: 4;
+				[aria-label="소아 청소년 성장"] {
+					// custom
+					font-family: 'NanumSquareRound';
+				}
 			}
 
 			&:before {
@@ -88,6 +92,10 @@
 				top: 0;
 				width: 100%;
 				z-index: 1;
+				[aria-label] {
+					// custom
+					font-family: 'NanumSquareRound';
+				}
 			}
 
 			&:hover {
